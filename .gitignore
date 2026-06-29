@@ -1,0 +1,13 @@
+.claude/
+node_modules/
+dist/
+.env
+*.db
+*.db-shm
+*.db-wal
+backend/data/
+backend/uploads/
+frontend/dist/
+.DS_Store
+*.log
+coverage/
